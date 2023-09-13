@@ -1,14 +1,40 @@
 {
-  "Templates": {
-    "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
-    "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
-    "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
-    "Template4": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template4/template.json",
-    "Template5": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template5/template.json",
-    "Template6": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template6/template.json",
-    "Template7": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template7/template.json",
-    "Template8": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template8/template.json",
-    "Template9": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template9/template.json",
-    "Template10": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template10/template.json"
+  "Categories": {
+    "Title": {
+      "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
+      "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
+      "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
+      "Template4": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template4/template.json",
+      "Template5": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template5/template.json",
+      "Template6": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template6/template.json",
+      "Template7": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template7/template.json",
+      "Template8": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template8/template.json",
+      "Template9": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template9/template.json",
+      "Template10": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template10/template.json"
+    },
+    "Social": {
+      "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
+      "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
+      "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
+      "Template4": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template4/template.json",
+      "Template5": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template5/template.json",
+      "Template6": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template6/template.json",
+      "Template7": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template7/template.json",
+      "Template8": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template8/template.json",
+      "Template9": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template9/template.json",
+      "Template10": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template10/template.json"
+    },
+    "Vlog": {
+      "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
+      "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
+      "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
+      "Template4": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template4/template.json",
+      "Template5": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template5/template.json",
+      "Template6": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template6/template.json",
+      "Template7": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template7/template.json",
+      "Template8": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template8/template.json",
+      "Template9": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template9/template.json",
+      "Template10": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template10/template.json"
+    }
   }
 }
