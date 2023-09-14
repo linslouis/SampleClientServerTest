@@ -1,7 +1,8 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "Categories": {
     "Title": {
+      "Template11": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template11/template.json",
       "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
       "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
       "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
