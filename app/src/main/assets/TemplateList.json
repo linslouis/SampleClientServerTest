@@ -1,8 +1,9 @@
 {
-  "version": 1.7,
+  "version": 1.8,
   "Categories": {
     "Title": {
-      "Template13": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template13/template.json",
+      "Template13": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template14/template.json",
+      "Template14": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template13/template.json",
       "Template11": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template11/template.json",
       "Template12": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template12/template.json",
       "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
