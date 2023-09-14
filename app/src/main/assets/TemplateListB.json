@@ -19,6 +19,11 @@
       "Template10": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template10/template.json"
     },
     "Social": {
+      "Template15": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template15/template.json",
+      "Template13": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template14/template.json",
+      "Template14": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template13/template.json",
+      "Template11": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template11/template.json",
+      "Template12": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template12/template.json",
       "Template1": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template1/template.json",
       "Template2": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template2/template.json",
       "Template3": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template3/template.json",
