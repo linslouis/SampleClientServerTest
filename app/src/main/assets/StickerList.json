@@ -3,22 +3,21 @@
   "stickerCategories": [
     {
       "categoryThump": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/thump.png",
-
       "stickers": [
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk1.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template0/template.zip",
           "keywords": ["halloween", "happy","pumkin","Horror","novembar","scary"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk2.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template16/template.zip",
           "keywords": ["halloween", "happy","pumkin","Horror","novembar","scary"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk3.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template17/template.zip",
           "keywords": ["tick", "happy","check","verified","success","done","correct","right","true"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk4.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template19/template.zip",
           "keywords": ["man", "eyes","scare","face","horror","scary","fear","fright","terror","shock","shocked","fright"]
         },
         {
@@ -26,15 +25,15 @@
           "keywords": ["green", "watching"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk6.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template20/template.zip",
           "keywords": ["factory", "packing","machine","production","industry","industrial","manufacturing","manufactur","automation"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk7.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template21/template.zip",
           "keywords": ["roller", "courier","delivery","parcel","package","shipping","transport","trans"]
         },
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk8.json",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template22/template.zip",
           "keywords": ["vegetables", "orange","smile"]
         },
         {
