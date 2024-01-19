@@ -5,7 +5,7 @@
       "categoryThump": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/thump.png",
       "stickers": [
         {
-          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Template0/template.zip",
+          "filePath": "https://raw.githubusercontent.com/linslouis/SampleClientServerTest/master/app/src/main/assets/Stickers/category1/stk1.json",
           "keywords": ["halloween", "happy","pumkin","Horror","novembar","scary"]
         },
         {
